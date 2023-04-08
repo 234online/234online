@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @234online
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Javascript
+- 👋 Hi, I’m Turnea Fabian
+- 👀 I’m interested in Game Programming and Web Developement
+- 🌱 I’m currently learning C++
 - 💞️ I’m looking to collaborate on a small project
 - 📫 How to reach me: turneafabian@gmail.com
 
